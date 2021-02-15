@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\lcdcalculator\lcdcalculator.mcppi
+Project1=lcdcalcmodificado.mcppi
+[ActiveProject]
+Index=1

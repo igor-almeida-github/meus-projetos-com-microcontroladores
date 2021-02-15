@@ -1,0 +1,25 @@
+main
+	__CC2DW
+	UART1_Init
+	millis
+		longword2double
+			NRM4032
+				SETFUN32
+				FIXSIGN32
+				SETFOV32
+				RES032
+		Mul_32x32_FP
+			RES032
+			SETFOV32
+			SETFUN32
+		double2longword
+			SETIOV3224
+	word2double
+		NRM3232
+			RES032
+			SETFUN32
+			FIXSIGN32
+	double2byte
+		SETIOV3224
+	UART1_Write
+interrupt

@@ -1,0 +1,18 @@
+main
+	__CC2DW
+	UART1_Init
+	UART1_Write_Text
+		UART1_Write
+	newline
+		UART1_Write
+	UART1_Data_Ready
+	UART1_Read
+	UART1_Write
+	Mul_32x32_U
+	Div_32x32_S
+		SDIV3232L
+		COMFREM
+	LongToStr
+		LongWordToStr
+			Div_32x32_U
+	Ltrim

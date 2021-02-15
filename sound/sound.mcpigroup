@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\advancedlogicprobe\advancedlogicprobe.mcppi
+Project1=sound.mcppi
+[ActiveProject]
+Index=1

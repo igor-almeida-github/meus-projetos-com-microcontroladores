@@ -1,0 +1,7 @@
+[PROJECTS]
+Count=3
+Project0=..\ledcflash\ledflash.mcppi
+Project1=..\TwodicefewerIO\x7segment.mcppi
+Project2=x7segment.mcppi
+[ActiveProject]
+Index=2

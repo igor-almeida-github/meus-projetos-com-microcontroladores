@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\Leddice\Leddice.mcppi
+Project1=Led2dice.mcppi
+[ActiveProject]
+Index=1

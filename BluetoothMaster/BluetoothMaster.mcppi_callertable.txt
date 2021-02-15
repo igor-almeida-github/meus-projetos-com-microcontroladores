@@ -1,0 +1,32 @@
+main
+	__CC2DW
+		____DoICP
+	UART1_Init
+	Lcd_Init
+		Delay_5500us
+		Delay_1us
+	Lcd_Cmd
+		Delay_1us
+		Delay_5500us
+		Delay_50us
+	Lcd_Out
+		Lcd_Cmd
+			Delay_1us
+			Delay_5500us
+			Delay_50us
+		Lcd_Chr_CP
+			Lcd_Cmd
+				Delay_1us
+				Delay_5500us
+				Delay_50us
+	Bluetooth_cmd
+		____DoICP
+		UART1_Write_Text
+			UART1_Write
+		UART1_Write
+		strlen
+	UART1_Write_Text
+		UART1_Write
+	UART1_Write
+interrupt
+	UART1_Read

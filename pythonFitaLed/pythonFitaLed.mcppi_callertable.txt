@@ -1,0 +1,8 @@
+main
+	__CC2DW
+	ledstrip
+		ledstrip_write0
+		ledstrip_write1
+	UART1_Init
+	Mul_16X16_U
+interrupt

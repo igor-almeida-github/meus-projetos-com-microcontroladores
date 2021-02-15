@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4620 -DL -O11111114 -fo40 -N"C:\Users\igor_\Documents\Microcontroladores\PIC\Mikroc\pythonFitaLed\pythonFitaLed.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\igor_\Documents\Microcontroladores\PIC\Mikroc\pythonFitaLed\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Users\igor_\Documents\Microcontroladores\PIC\Mikroc\pythonFitaLed\" "pythonFitaLed.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_ADC_A_D.mcl" "__Lib_EEPROM_1024.mcl" "__Lib_FLASH_w64_e64.mcl" "__Lib_SPI_c345.mcl" "__Lib_UART_c67.mcl" "__Lib_CANSPI.mcl" "__Lib_CF.mcl" "__Lib_CFFat16.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_S1D13700.mcl" "__Lib_T6963C.mcl" "__Lib_TFT.mcl" "__Lib_TFT_Defs.mcl" "__Lib_TFT_16bit.mcl" "__Lib_TFT_16bit_Defs.mcl" "__Lib_TouchPanel_TFT.mcl" "__Lib_STMPE610.mcl" "__Lib_TouchPanel.mcl"	 
+hint: 0	1139	Available RAM: 3947 [bytes], Available ROM: 65536 [bytes]	 
+diagnostics: 0	122	Compilation Started	pythonFitaLed.c
+warning: 91	1509	Generated baud rate is 114943 bps (error = 0.22 percent)	pythonFitaLed.c
+hint: 79	1163	Variable 'i' has been declared, but not used	pythonFitaLed.c
+diagnostics: 110	123	Compiled Successfully	pythonFitaLed.c
+diagnostics: 0	127	All files Compiled in 281 ms	 
+hint: 0	1144	Used RAM (bytes): 474 (12%)  Free RAM (bytes): 3473 (88%)	Used RAM (bytes): 474 (12%)  Free RAM (bytes): 3473 (88%)
+hint: 0	1144	Used ROM (bytes): 768 (1%)  Free ROM (bytes): 64768 (99%)	Used ROM (bytes): 768 (1%)  Free ROM (bytes): 64768 (99%)
+diagnostics: 0	125	Project Linked Successfully	pythonFitaLed.mcppi
+diagnostics: 0	128	Linked in 109 ms	 
+diagnostics: 0	129	Project 'pythonFitaLed.mcppi' completed: 437 ms	 
+diagnostics: 0	103	Finished successfully: 20 dez 2020, 15:43:35	pythonFitaLed.mcppi

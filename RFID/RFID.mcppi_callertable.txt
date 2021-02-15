@@ -1,0 +1,11 @@
+main
+	Lcd_Init
+		Delay_5500us
+		Delay_1us
+	mssp_SPI_init
+	UART1_Init
+	UART1_Data_Ready
+	UART1_Read
+	SpiWrite
+	UART1_Write
+interrupt

@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo20 -N"C:\Users\igor_\Documents\PIC\Mikroc\highlowgame\highlowgame.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\igor_\Documents\PIC\Mikroc\highlowgame\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -IP"C:\Users\igor_\Documents\PIC\Mikroc\highlowgame\" "highlowgame.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Button.mcl" "__Lib_Keypad4x4.mcl" "__Lib_ADC_A_C.mcl" "__Lib_EEPROM.mcl" "__Lib_FLASH_RW.mcl" "__Lib_I2C_c34.mcl" "__Lib_SPI_c345.mcl" "__Lib_CANSPI.mcl" "__Lib_CF.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_S1D13700.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	highlowgame.c
+hint: 33	1163	Variable 'dif' has been declared, but not used	highlowgame.c
+diagnostics: 84	123	Compiled Successfully	highlowgame.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 149 (42%)  Free RAM (bytes): 203 (58%)	Used RAM (bytes): 149 (42%)  Free RAM (bytes): 203 (58%)
+hint: 0	1144	Used ROM (program words): 971 (12%)  Free ROM (program words): 7221 (88%)	Used ROM (program words): 971 (12%)  Free ROM (program words): 7221 (88%)
+diagnostics: 0	125	Project Linked Successfully	highlowgame.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'highlowgame.mcppi' completed: 156 ms	 
+diagnostics: 0	103	Finished successfully: 22 mai 2019, 22:26:25	highlowgame.mcppi

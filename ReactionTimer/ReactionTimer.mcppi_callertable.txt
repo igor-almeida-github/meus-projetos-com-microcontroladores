@@ -1,0 +1,34 @@
+main
+	__CC2DW
+		____DoICP
+	Lcd_Init
+		Delay_5500us
+		Delay_1us
+	Lcd_Cmd
+		Delay_1us
+		Delay_5500us
+		Delay_50us
+	srand
+	rand
+		srand
+		Mul_32x32_U
+	Div_16x16_S
+		Div_16x16_S_L
+	Mul_16X16_U
+	VDelay_ms
+		Mul_32x32_U
+	Div_32x32_U
+	Mul_32x32_U
+	LongWordToStr
+		Div_32x32_U
+	Lcd_Out
+		Lcd_Cmd
+			Delay_1us
+			Delay_5500us
+			Delay_50us
+		Lcd_Chr_CP
+			Lcd_Cmd
+				Delay_1us
+				Delay_5500us
+				Delay_50us
+interrupt

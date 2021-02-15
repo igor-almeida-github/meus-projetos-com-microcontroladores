@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4620 -DL -O11111114 -fo16 -N"C:\Users\igor_\Documents\PIC\Mikroc\Leddice\Leddice.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\igor_\Documents\PIC\Mikroc\Leddice\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Users\igor_\Documents\PIC\Mikroc\Leddice\" "Leddice.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl"	 
+hint: 0	1139	Available RAM: 3947 [bytes], Available ROM: 65536 [bytes]	 
+diagnostics: 0	122	Compilation Started	Leddice.c
+diagnostics: 31	123	Compiled Successfully	Leddice.c
+hint: 6	1164	Variable 'resultado' has been eliminated by optimizer	Leddice.c
+hint: 8	1164	Variable 'p' has been eliminated by optimizer	Leddice.c
+diagnostics: 0	127	All files Compiled in 79 ms	 
+hint: 0	1144	Used RAM (bytes): 23 (1%)  Free RAM (bytes): 3924 (99%)	Used RAM (bytes): 23 (1%)  Free RAM (bytes): 3924 (99%)
+hint: 0	1144	Used ROM (bytes): 3588 (5%)  Free ROM (bytes): 61948 (95%)	Used ROM (bytes): 3588 (5%)  Free ROM (bytes): 61948 (95%)
+diagnostics: 0	125	Project Linked Successfully	Leddice.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'Leddice.mcppi' completed: 109 ms	 
+diagnostics: 0	103	Finished successfully: 28 abr 2019, 00:23:27	Leddice.mcppi

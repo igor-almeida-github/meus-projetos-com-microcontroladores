@@ -1,0 +1,5 @@
+[PROJECTS]
+Count=1
+Project0=mpu6050.mcppi
+[ActiveProject]
+Index=0

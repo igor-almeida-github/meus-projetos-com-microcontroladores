@@ -1,0 +1,15 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4620 -DL -O11111114 -fo20 -N"C:\Users\igor_\Documents\PIC\Mikroc\generatingwaveform\generatingwaveform.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\igor_\Documents\PIC\Mikroc\generatingwaveform\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Users\igor_\Documents\PIC\Mikroc\generatingwaveform\" "generatingwaveform.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_ADC_A_D.mcl" "__Lib_EEPROM_1024.mcl" "__Lib_SPI_c345.mcl" "__Lib_UART_c67.mcl" "__Lib_PortExpander.mcl" "__Lib_CANSPI.mcl" "__Lib_CF.mcl" "__Lib_CFFat16.mcl" "__Lib_GlcdFonts.mcl" "__Lib_LcdConsts.mcl" "__Lib_S1D13700.mcl" "__Lib_SPIGlcd.mcl" "__Lib_SPILcd.mcl" "__Lib_SPILcd8.mcl" "__Lib_SPIT6963C.mcl" "__Lib_EthEnc28j60.mcl" "__Lib_EthEnc24j600.mcl"	 
+hint: 0	1139	Available RAM: 3947 [bytes], Available ROM: 65536 [bytes]	 
+hint: 5	1354	 warning: "/*" within comment     //*******************************************************************************************  diferentes	C:\Users\igor_\Documents\PIC\Mikroc\generatingwaveform\generatingwaveform.c
+hint: 6	1354	 warning: "/*" within comment     //***********************************Sawtooth************************************************  diferentes	C:\Users\igor_\Documents\PIC\Mikroc\generatingwaveform\generatingwaveform.c
+hint: 42	1354	 warning: "/*" within comment     //*************************************************************************  A=1(gain 1);    BUF=0(input unbuffered);    A/B=0(write do DACa MCP4921 supports only DACa)	C:\Users\igor_\Documents\PIC\Mikroc\generatingwaveform\generatingwaveform.c
+diagnostics: 0	122	Compilation Started	generatingwaveform.c
+diagnostics: 235	123	Compiled Successfully	generatingwaveform.c
+hint: 199	1164	Variable 'temp' has been eliminated by optimizer	generatingwaveform.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RAM (bytes): 436 (11%)  Free RAM (bytes): 3511 (89%)	Used RAM (bytes): 436 (11%)  Free RAM (bytes): 3511 (89%)
+hint: 0	1144	Used ROM (bytes): 4842 (7%)  Free ROM (bytes): 60694 (93%)	Used ROM (bytes): 4842 (7%)  Free ROM (bytes): 60694 (93%)
+diagnostics: 0	125	Project Linked Successfully	generatingwaveform.mcppi
+diagnostics: 0	128	Linked in 63 ms	 
+diagnostics: 0	129	Project 'generatingwaveform.mcppi' completed: 172 ms	 
+diagnostics: 0	103	Finished successfully: 29 mai 2019, 19:27:47	generatingwaveform.mcppi

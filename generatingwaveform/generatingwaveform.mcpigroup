@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=1
+Project0=generatingwaveform.mcppi
+Project1=..\multplexdisplay4\multiplexdisplay4.mcppi
+[ActiveProject]
+Index=0

@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4620 -DL -O11111114 -fo20 -N"C:\Users\igor_\Documents\Microcontroladores\PIC\Mikroc\PWM_ccp\PWM_ccp.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\igor_\Documents\Microcontroladores\PIC\Mikroc\PWM_ccp\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Users\igor_\Documents\Microcontroladores\PIC\Mikroc\PWM_ccp\" "PWM_ccp.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 3947 [bytes], Available ROM: 65536 [bytes]	 
+diagnostics: 0	122	Compilation Started	PWM_ccp.c
+diagnostics: 34	123	Compiled Successfully	PWM_ccp.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 3947 (99%)	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 3947 (99%)
+hint: 0	1144	Used ROM (bytes): 124 (1%)  Free ROM (bytes): 65412 (99%)	Used ROM (bytes): 124 (1%)  Free ROM (bytes): 65412 (99%)
+diagnostics: 0	125	Project Linked Successfully	PWM_ccp.mcppi
+diagnostics: 0	128	Linked in 32 ms	 
+diagnostics: 0	129	Project 'PWM_ccp.mcppi' completed: 125 ms	 
+diagnostics: 0	103	Finished successfully: 19 jun 2019, 19:09:20	PWM_ccp.mcppi
